@@ -1,1 +1,2 @@
 # ASSIGNMENT-16-SEPTEMBER
+To find sum
